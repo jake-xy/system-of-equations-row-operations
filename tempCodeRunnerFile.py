@@ -1,0 +1,2 @@
+
+            # if charCount == 2:
